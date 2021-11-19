@@ -1,0 +1,85 @@
+{
+    "grocery":[
+       {
+           "Slno" : "1" ,
+           "ItemName" : "Brown Rice",
+           "Quantity" : "5",
+            "Unit" : "kg",
+           "Department" : "Grain",
+           "Notes" : "Long grain"
+       },
+       {
+        "Slno" : "2" ,
+        "ItemName" : "Sugar",
+        "Quantity" : "1",
+         "Unit" : "kg",
+        "Department" : "crystal",
+        "Notes" : "brown sugar"
+       },
+       {
+        "Slno" : "3" ,
+        "ItemName" : "Tea powder",
+        "Quantity" : "1",
+         "Unit" : "kg",
+        "Department" : "Beverages",
+        "Notes" : "Herbal Tea"
+       },
+       {
+        "Slno" : "4" ,
+        "ItemName" : "Makhana",
+        "Quantity" : "1",
+         "Unit" : "packet",
+        "Department" : "seed",
+        "Notes" : "healthy"
+       },
+       {
+        "Slno" : "5" ,
+        "ItemName" : "Castor oil",
+        "Quantity" : "1",
+         "Unit" : "Bottle",
+        "Department" : "Oil",
+        "Notes" : "Unrefined oil"
+       },
+       {
+        "Slno" : "6" ,
+        "ItemName" : "Dal",
+        "Quantity" : "1",
+         "Unit" : "kg",
+        "Department" : "pulses",
+        "Notes" : "Staple food"
+       },
+       {
+        "Slno" : "7" ,
+        "ItemName" : "Cerlac",
+        "Quantity" : "1",
+         "Unit" : "packet",
+        "Department" : "food",
+        "Notes" : "multivitamin baby food"
+       },
+       
+       {
+        "Slno" : "8" ,
+        "ItemName" : "Cashew",
+        "Quantity" : "1",
+         "Unit" : "kg",
+        "Department" : "nuts",
+        "Notes" : "healthy food"
+       },
+       {
+        "Slno" : "9" ,
+        "ItemName" : "Onion",
+        "Quantity" : "2",
+         "Unit" : "kg",
+        "Department" : "vegetables",
+        "Notes" : "fresh"
+       },
+       {
+        "Slno" : "10" ,
+        "ItemName" : "Mango",
+        "Quantity" : "3",
+         "Unit" : "kg",
+        "Department" : "Fruits",
+        "Notes" : "Fresh"
+       }
+    ]
+}
